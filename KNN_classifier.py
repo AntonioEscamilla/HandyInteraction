@@ -1,3 +1,13 @@
+###########################################################################################
+###                        CODE:       WRITTEN BY: ANTONIO ESCAMILLA                    ###
+###                        PROJECT:    HANDY INTERACTION                                ###
+###                        PURPOSE:    WINDOWS/LINUX/MACOS FLAT MODERN UI               ###
+###                                    BASED ON QT DESIGNER                             ###
+###                        LICENCE:    MIT OPENSOURCE LICENCE                           ###
+###                                                                                     ###
+###                            CODE IS FREE TO USE AND MODIFY                           ###
+###########################################################################################
+
 import csv
 import numpy as np
 import os
