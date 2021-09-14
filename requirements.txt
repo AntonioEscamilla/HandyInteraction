@@ -1,5 +1,5 @@
 numpy==1.19.3
-pandas
+pandas>=1.2.4
 sklearn
 matplotlib
 tensorflow==2.2.0
